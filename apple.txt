@@ -2,3 +2,6 @@
 git init
 git status
 
+asdfgh
+wertyui
+zxcvbnm
